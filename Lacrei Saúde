@@ -1,0 +1,12 @@
+Escopo:Páginas de Cadastro e Recuperação de Conta  
+Ferramenta: NVDA (Windows)
+
+Validações realizadas:
+- Navegação completa via teclado
+- Leitura correta de campos e botões
+- Mensagens de feedback lidas corretamente
+- Sem travas de foco detectadas
+- Nota de acessibilidade (Lighthouse): 95/100
+
+Resultado: Aprovado  
+Observações:*Recomenda-se adicionar aria-labels em ícones sem texto visível.
